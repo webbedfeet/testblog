@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://webbedfeet.github.io/testblog/2017/11/22/summarize-outcomes-into-new-variables/</loc>
+    <loc>https://webbedfeet.github.io/testblog/2017/11/22/summarize-outcomes-into-new-variables/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://webbedfeet.github.io/testblog/</loc>
-    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://webbedfeet.github.io/testblog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://webbedfeet.github.io/testblog/tags/data-munging/</loc>
+    <loc>https://webbedfeet.github.io/testblog/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://webbedfeet.github.io/testblog/post/</loc>
+    <loc>https://webbedfeet.github.io/testblog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webbedfeet.github.io/testblog/tags/data-munging/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://webbedfeet.github.io/testblog/categories/r/</loc>
+    <loc>https://webbedfeet.github.io/testblog/post/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://webbedfeet.github.io/testblog/tags/</loc>
+    <loc>https://webbedfeet.github.io/testblog/categories/r/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webbedfeet.github.io/testblog/tags/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

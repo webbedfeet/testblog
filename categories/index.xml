@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BIOF339 Blog</title>
-    <link>http://webbedfeet.github.io/testblog/categories/</link>
+    <link>https://webbedfeet.github.io/testblog/categories/</link>
     <description>Recent content in Categories on BIOF339 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://webbedfeet.github.io/testblog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://webbedfeet.github.io/testblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>http://webbedfeet.github.io/testblog/categories/r/</link>
+      <link>https://webbedfeet.github.io/testblog/categories/r/</link>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://webbedfeet.github.io/testblog/categories/r/</guid>
+      <guid>https://webbedfeet.github.io/testblog/categories/r/</guid>
       <description></description>
     </item>
     
